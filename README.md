@@ -1,4 +1,4 @@
-![image](https://github.com/egehan0250/Captcha/assets/79449566/e90cde36-4d27-4e17-a785-a53ceffb754c)# Captcha
+# Captcha
 Basic Captcha JavaScript
 
 # 🎈 Images 🎈
