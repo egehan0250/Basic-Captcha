@@ -10,7 +10,7 @@ Basic Captcha JavaScript
 - 🏓 [Fast Uptime](https://fastuptime.com/)<br>
 - 🪄 All kinds of projects are made <br>
 - 🧨 You can contact us to make a paid project<br>
-- ☄️ [Click For Contact](mailto:egehankontas55@gmail.com)<br>y
+- ☄️ [Click For Contact](mailto:egehankontas55@gmail.com)<br>
 
 # 🎯 License 🎯
 - ⚖️ Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
