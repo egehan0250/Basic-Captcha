@@ -1,4 +1,4 @@
-# Captcha
+# Basic-Captcha
 Basic Captcha JavaScript
 
 # 🎈 Images 🎈
